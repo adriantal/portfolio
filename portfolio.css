@@ -1,0 +1,26 @@
+#parent{
+    background-color: white;
+    height:600px;
+    display:flex;
+  }
+  
+  #child1{
+    border:2px solid black; 
+    height:300px;
+    width:50%;
+
+  }
+  
+  #child2{
+    border:2px solid black;
+    height:300px;
+    width:50%;
+   
+  }
+  
+  #child3{
+    border:2px solid black;
+    height:300px;
+    width:50%;
+  
+  }

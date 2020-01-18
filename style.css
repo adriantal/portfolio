@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    text-shadow: 3px 2px red;
+    outline-style: solid;
+    outline-color: red;
+    outline-style: blink;
+    background-color: aquamarine;
+    border: 2px solid rgb(255,128,128);
+}
+
+h3{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.section-header {
+    font-size: 30px;
+    font-style: bold italic;
+}
+
+#profile-picture{
+    border:2px solid black;
+}
+
+.section {
+    background-color: pink;
+    margin:0px 50px 10px 50px;
+    text-align: justify;
+    padding: 10px 30px 10px 30px;
+}
+
+.paragraph-details{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
